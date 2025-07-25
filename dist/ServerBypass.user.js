@@ -13,7 +13,7 @@
 // @match        https://lootdest.info/*
 // @match        https://lootdest.org/*
 // @match        https://links-loot.com/*
-// @icon         https://i.pinimg.com/736x/aa/2a/e5/aa2ae567da2c40ac6834a44abbb9e9ff.jpg
+// @icon         https://i.imgur.com/egKYZMC.png
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
